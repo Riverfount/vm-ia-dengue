@@ -1,0 +1,3 @@
+[default.security]
+# Set secret key in .secrets.toml
+# GOOGLE_API_KEY = ""  # Set your Google API in the environment variables or .secrets.toml file
