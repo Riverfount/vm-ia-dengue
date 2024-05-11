@@ -1,0 +1,1 @@
+O vírus da dengue (DENV) pode ser transmitido ao homem principalmente por via vetorial, pela picada de fêmeas de Aedes aegypti infectadas. Transmissão por via vertical (de mãe para filho durante a gestação) e por transfusão de sangue são raros.

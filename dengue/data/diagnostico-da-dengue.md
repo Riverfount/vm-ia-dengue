@@ -1,0 +1,1 @@
+Não existe necessidade da realização de exames específicos para o tratamento da doença, já que é baseado nas manifestações clínicas apresentadas. No entanto, para apoiar o diagnóstico clínico existem disponíveis técnicas laboratoriais para identificação do vírus (até o 5° dia de início da doença) e pesquisa de anticorpos (a partir do 6° dia de início da doença).

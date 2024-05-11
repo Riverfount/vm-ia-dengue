@@ -1,0 +1,12 @@
+Em 21 de dezembro de 2023 a vacina contra dengue foi incorporada no Sistema Único de Saúde (SUS). A inclusão da vacina da dengue é uma importante ferramenta no SUS para que a dengue seja classificada como mais uma doença imunoprevenível.
+
+**Histórico**: A vacina contra a dengue entra no Calendário Nacional de Vacinação pela primeira vez em fevereiro de 2024 e em virtude da capacidade de produção laboratorial a primeira campanha de vacinação atende 521 municípios distribuídos em 37 regiões de saúde do país. Embora exista a vacina contra a dengue, o controle do vetor Aedes aegypti é o principal método para a prevenção e controle para a dengue e outras arboviroses urbanas (como chikungunya e Zika), seja pelo manejo integrado de vetores ou pela prevenção pessoal dentro dos domicílios.
+
+É importante entender que ao adotar medidas de controle ao vetor após a introdução de um ou mais sorotipos novos do vírus da dengue, a possibilidade de se interromper a transmissão é reduzida, uma vez que há elevada densidade vetorial. Além disso, o tempo que decorre até a redução das populações de Aedes aegypti é muito maior que a velocidade de circulação viral, pois nessas circunstâncias a população sob risco é de suscetíveis. Quando a epidemia se instala, esta segue seu curso e as ações de controle vetorial mostram pouca ou nenhuma efetividade. Muitas das vezes, a redução do número de pessoas que adoecem ocorre "naturalmente", mais em função da imunidade de grupo que vai se estabelecendo do que pelos resultados obtidos com as ações de controle estabelecidas.
+
+Portanto, em períodos fora da sazonalidade da doença é que ações preventivas devem ser adotadas. É o momento ideal para manutenção de medidas que visem impedir epidemias futuras. **Nesse sentido, além das ações realizada pelos agentes de saúde, a população deve fazer a sua parte**:
+- uso de telas nas janelas e repelentes em áreas de reconhecida transmissão;
+- remoção de recipientes nos domicílios que possam se transformar em criadouros de mosquitos;
+- vedação dos reservatórios e caixas de água;
+- desobstrução de calhas, lajes e ralos;
+- participação na fiscalização das ações de prevenção e controle da dengue executadas pelo Sistema Único de Saúde (SUS).
